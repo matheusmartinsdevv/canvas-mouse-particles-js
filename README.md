@@ -21,3 +21,6 @@ Código adaptado e comentado a partir de um exemplo online disponível (_marsdes
 ## 🧠 Status
 
 ✅ Projeto de estudo finalizado.
+
+# Como usar
+Basta abrir o arquivo `index.html` no navegador para ver a animação funcionando.
